@@ -17,7 +17,7 @@ export const Home = () => {
             <Button className="button">Começar agora!</Button>
           </section>
           <img
-            src="../../public/assets/images/hero.png"
+            src="/assets/images/hero.png"
             alt="Ilustração de um homem pulando entre plataformas"
             className="media"
           />
@@ -28,7 +28,7 @@ export const Home = () => {
               <Card.Number className="card-header__number" number="01" />
               <Card.Image
                 className="card-header__image"
-                src="../../public/assets/images/youtube.png"
+                src="/assets/images/youtube.png"
                 name="Youtube Image"
               />
             </div>
@@ -43,7 +43,7 @@ export const Home = () => {
               <Card.Number className="card-header__number" number="02" />
               <Card.Image
                 className="card-header__image"
-                src="../../public/assets/images/tiktok.png"
+                src="/assets/images/tiktok.png"
                 alt="Tiktok Image"
               />
             </div>
@@ -58,7 +58,7 @@ export const Home = () => {
               <Card.Number className="card-header__number" number="03" />
               <Card.Image
                 className="card-header__image"
-                src="../../public/assets/images/facebook.png"
+                src="/assets/images/facebook.png"
                 alt="Facebook Image"
               />
             </div>
@@ -73,7 +73,7 @@ export const Home = () => {
               <Card.Number className="card-header__number" number="04" />
               <Card.Image
                 className="card-header__image"
-                src="../../public/assets/images/instagram.png"
+                src="/assets/images/instagram.png"
                 alt="Instagram Image"
               />
             </div>

@@ -10,17 +10,17 @@ export const Contact = () => {
           <Title className="title">Dúvidas e suporte, entre em contato:</Title>
           <div className="contact__icons">
             <img
-              src="../../public/assets/images/twitterIcon.svg"
+              src="/assets/images/twitterIcon.svg"
               alt="Twitter Icon"
               className="invite__icon"
             />
             <img
-              src="../../public/assets/images/instagramIcon.svg"
+              src="/assets/images/instagramIcon.svg"
               alt="Instagram Icon"
               className="invite__icon"
             />
             <img
-              src="../../public/assets/images/discordIcon.svg"
+              src="/assets/images/discordIcon.svg"
               alt="Discord Icon"
               className="invite__icon"
             />

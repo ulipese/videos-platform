@@ -19,12 +19,12 @@ export const About = () => {
           </section>
           <section className="info__about-images">
             <img
-              src="/public/assets/images/aboutImage2.png"
+              src="/assets/images/aboutImage2.png"
               alt="Imagem de Celular do Sobre 1"
               className="about-images__image"
             />
             <img
-              src="/public/assets/images/aboutImage1.png"
+              src="/assets/images/aboutImage1.png"
               alt="Imagem de Celular do Sobre 2"
               className="about-images__image"
             />
